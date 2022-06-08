@@ -1,8 +1,12 @@
+var happy = "true";
+
+var sad = "false"
+
 var words = ["Hello", "Bye", "Seeya", "Today" ];
 
 var nums = ["10", "51", "87", "14"];
 
-var boolean = ["true", "true", "false", "false"];
+var happyorsad = ["happy", "sad", "happy", "sad"];
 
 words.pop();
 //the output of "words.pop()" will remove the last element from my array
@@ -19,3 +23,7 @@ boolean.shift();
 // For example, "Hello" in var words is 0
 // and, "51" in var nums is 1
 //lastly, "false" is in both 2 and 3
+
+console.log(words);
+console.log(mums);
+console.log(boolean);

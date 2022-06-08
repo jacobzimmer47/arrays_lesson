@@ -1,4 +1,4 @@
-var words = ["Hello","Bye", "Seeya", "Today" ];
+var words = ["Hello", "Bye", "Seeya", "Today" ];
 
 var nums = ["10", "51", "87", "14"];
 
